@@ -1,4 +1,6 @@
-python-telegram-bot
-telethon
-flask
-redis
+pyrogram
+tgcrypto
+aiohttp
+motor
+pymongo
+dnspython
